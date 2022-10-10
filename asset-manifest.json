@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pomodoro-timer-fcc/static/css/main.8604416b.css",
+    "main.js": "/pomodoro-timer-fcc/static/js/main.521b424c.js",
+    "static/js/787.bc0f20e1.chunk.js": "/pomodoro-timer-fcc/static/js/787.bc0f20e1.chunk.js",
+    "static/media/timer-beep.wav": "/pomodoro-timer-fcc/static/media/timer-beep.9a11e5385713b2b18477.wav",
+    "index.html": "/pomodoro-timer-fcc/index.html",
+    "main.8604416b.css.map": "/pomodoro-timer-fcc/static/css/main.8604416b.css.map",
+    "main.521b424c.js.map": "/pomodoro-timer-fcc/static/js/main.521b424c.js.map",
+    "787.bc0f20e1.chunk.js.map": "/pomodoro-timer-fcc/static/js/787.bc0f20e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8604416b.css",
+    "static/js/main.521b424c.js"
+  ]
+}
